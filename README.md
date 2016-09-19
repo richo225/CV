@@ -31,7 +31,7 @@ Projects
 Education
 ---------
 
-#### Makers Academy (July 2016 - September 2016)
+#### Makers Academy Remote (July 2016 - September 2016)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -45,7 +45,7 @@ Education
 
 - Junior reseach scientist
 - First class lab report
-- [Molecular and Cellular Mechanisms of the Neurovascular link](http://bzh.db-engine.de/default.asp?lfn=2241&fg=4134)
+- Neurovascular link
 
 #### Imperial College (September 2011 - August 2015)
 
