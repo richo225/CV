@@ -38,7 +38,7 @@ Projects
 --------
 | Demo | GitHub Repo | Description | Technology Stack | Testing
 |---|---|---|---|---|---|
-|[MakeItStop!](https://www.youtube.com/watch?v=WGuyOzGttv0) [Simulator](https://appetize.io/embed/9u8mc98n64duqbtp8puja2thhm?device=iphone5s&scale=75&orientation=portrait&osVersion=9.3)|[MakeItStop! on GitHub](https://github.com/MakeItStop/task-based-alarm) | A cross-platform native mobile alarm app for those who find it difficult waking up in the morning | NativeScript, Angular 2, TypeScript, Javascript, CSS, Xcode| Jasmine, Karma |
+|[MakeItStop!](https://www.youtube.com/watch?v=WGuyOzGttv0) [Simulator](https://appetize.io/embed/9u8mc98n64duqbtp8puja2thhm?device=iphone6&scale=75&orientation=portrait&osVersion=9.3)|[MakeItStop! on GitHub](https://github.com/MakeItStop/task-based-alarm) | A cross-platform native mobile alarm app for those who find it difficult waking up in the morning | NativeScript, Angular 2, TypeScript, Javascript, CSS, Xcode| Jasmine, Karma |
 |[Richagram](https://richagram.herokuapp.com/)|[Richagram on GitHub](https://github.com/richo225/richagram) | An instagram clone rebuilt with Ruby on Rails | Ruby, Rails, AWS, HAML, CSS, Bootstrap | Rspec, Capybara
 |[Stockr](https://github.com/SamedYalniz/stockr)|[Stockr on GitHub](https://github.com/SamedYalniz/stockr) | Hackathon group project built for wholesellers to easily update customers with their current stock | Ruby, Rails, HTML, CSS | Rspec, Capybara
 |[Jesus BnB](http://bnb-jesus.herokuapp.com/)|[Jesus BnB on GitHub](https://github.com/richo225/jesus_bnb) | An Air BnB clone for those needing a place to stay | Ruby, Sinatra, HAML, CSS, Bootstrap | Rspec, Capybara |
