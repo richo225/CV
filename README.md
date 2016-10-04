@@ -1,7 +1,7 @@
 Richard Bates
 =============
 [![Twitter](https://img.shields.io/badge/Twitter-%40MeisterBates-blue.svg)](https://twitter.com/Meister_Bates)
-[![Twitter](https://img.shields.io/badge/Github-richo225-green.svg)](https://github.com/richo225)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-richard--bates-green.svg)](https://uk.linkedin.com/in/richard-bates)
 
 I'm a neuroscientist turned junior full stack developer. I have traded dissecting mice brains for designing web applications by jumping feet first into an intensive 12-week software development course at [Makers Academy](https://github.com/makersacademy).
 
